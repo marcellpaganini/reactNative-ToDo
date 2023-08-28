@@ -12,7 +12,7 @@
 * React Native 
   * Create React Native App  
   ```bash
-  npx create-expo-app ProjectName
+  npx create-expo-app ProjectName -t expo-template-blank-typescript
   ```    
   * Start Development Server   
   ```bash
@@ -23,6 +23,6 @@
   
 
 ### Error messages for future reference  
-✖ Error:   
-Solution:  
+✖ Error: File 'expo/tsconfig.base' not found (after creating project with Typescript).   
+Solution: Reload VSCode window.
 
