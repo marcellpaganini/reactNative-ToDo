@@ -17,8 +17,12 @@
   * Start Development Server   
   ```bash
   npx expo start
-  ```   
-
+  ```
+  * Change to compatible Typescript version  
+  ```bash
+  npx expo install --fix
+  ```
+  
 ### Topics practiced to get things done  
   
 
